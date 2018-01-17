@@ -10,3 +10,5 @@
 * 腾讯开放平台 :http://open.qq.com/
 * 微博开放平台 :http://open.weibo.com
 * godaddy 域名管理 :godaddy.com
+* Nunjucks  (python :jinja2): http://mozilla.github.io/nunjucks/templating.html
+
