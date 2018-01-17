@@ -7,5 +7,6 @@
 * nodejs API 中文网 : http://nodejs.cn/api/
 * Markdown 语法说明 (简体中文版) https://www.appinn.com/markdown/
 * 腾讯云 : https://cloud.tencent.com/
+* 腾讯开放平台 :http://open.qq.com/
 * 微博开放平台 :http://open.weibo.com
 * godaddy 域名管理 :godaddy.com
