@@ -6,3 +6,6 @@
 * nodejs v8.x API  : https://nodejs.org/dist/latest-v8.x/docs/api/
 * nodejs API 中文网 : http://nodejs.cn/api/
 * Markdown 语法说明 (简体中文版) https://www.appinn.com/markdown/
+* 腾讯云 : https://cloud.tencent.com/
+* 微博开放平台 :http://open.weibo.com
+* godaddy 域名管理 :godaddy.com
