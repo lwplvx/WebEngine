@@ -11,4 +11,4 @@
 * 微博开放平台 :http://open.weibo.com
 * godaddy 域名管理 :godaddy.com
 * Nunjucks  (python :jinja2): http://mozilla.github.io/nunjucks/templating.html
-
+* MQTT协议中文版 https://mcxiaoke.gitbooks.io/mqtt-cn/content/
